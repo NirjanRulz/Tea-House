@@ -1,0 +1,19 @@
+
+.card1{
+    position: relative;
+    z-index: 1;
+}
+.card2{
+    position: relative;
+    z-index: 2;
+}
+.card3{
+    position: relative;
+    z-index: 3;
+}
+.email{
+    color: beige;
+}
+.input{
+    color: black;
+}
